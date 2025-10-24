@@ -2,3 +2,9 @@
 07:36:45	 From Araceli Mercado : git --version
 
 blah blha blah
+
+otra cosa
+main() {
+}
+
+askgiie hiohiux hoijidr ñdgpo 
